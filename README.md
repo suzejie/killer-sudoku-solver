@@ -1,6 +1,6 @@
 # killer-sudoku-solver
 
-一个用于 **Trae** 的杀手数独求解 skill：输入笼布局，输出唯一解 / 多解 / 无解；可选把答案直接填回题目图片。
+一个用于杀手数独求解 skill：输入笼布局，输出唯一解 / 多解 / 无解；可选把答案直接填回题目图片。
 
 ## 特性
 
@@ -13,7 +13,7 @@
 
 ## 安装
 
-全局安装（CN 版 Trae）：
+全局安装：
 
 ```bash
 git clone https://github.com/suziejie/killer-sudoku-solver.git \
@@ -27,7 +27,6 @@ git clone https://github.com/suziejie/killer-sudoku-solver.git \
   <项目目录>/.trae/skills/killer-sudoku-solver
 ```
 
-> 国际版 Trae 请把 `~/.trae-cn/skills/` 换成 `~/.trae/skills/`。
 > 克隆后的目录名必须是 `killer-sudoku-solver`，与 `SKILL.md` 中的 `name` 一致。
 
 ## 快速开始
