@@ -1,4 +1,4 @@
-Read this in other languages: [English](README.en.md), [中文](README.zh.md)
+Read this in other languages: [English](README.md), [中文](README_zh.md)
 
 # Killer Sudoku Solver
 
