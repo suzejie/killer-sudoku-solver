@@ -1,3 +1,5 @@
+Read this in other languages: [English](README.en.md), [中文](README.zh.md)
+
 # Killer Sudoku Solver
 
 A Python solver for Killer Sudoku puzzles. Given a cage layout or an image of a puzzle, it outputs **UNIQUE / MULTIPLE / NO_SOLUTION** and can optionally overlay the answer back onto the original image.
