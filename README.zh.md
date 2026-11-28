@@ -1,5 +1,3 @@
-Read this in other languages: [English](README.md), [中文](README.zh.md)
-
 # Killer Sudoku Solver
 
 杀手数独求解器：输入笼布局或直接给图片，输出**唯一解 / 多解 / 无解**，可选叠加答案到原图。
