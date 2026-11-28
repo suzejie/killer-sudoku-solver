@@ -6,7 +6,7 @@ A Python solver for Killer Sudoku puzzles. Given a cage layout or an image of a 
 [![Pillow](https://img.shields.io/badge/Pillow-10.x-green.svg)](https://pillow.readthedocs.io/)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](#)
 
-[中文说明 →](README.md)
+[中文说明 →](README.zh.md)
 
 ---
 
