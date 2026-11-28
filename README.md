@@ -1,3 +1,5 @@
+Read this in other languages: [English](README.md), [中文](README.zh.md)
+
 # Killer Sudoku Solver
 
 A Python solver for Killer Sudoku puzzles. Given a cage layout or an image of a puzzle, it outputs **UNIQUE / MULTIPLE / NO_SOLUTION** and can optionally overlay the answer back onto the original image.
@@ -5,8 +7,6 @@ A Python solver for Killer Sudoku puzzles. Given a cage layout or an image of a 
 [![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
 [![Pillow](https://img.shields.io/badge/Pillow-10.x-green.svg)](https://pillow.readthedocs.io/)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](#)
-
-[中文说明 →](README.zh.md)
 
 ---
 
